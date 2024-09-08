@@ -1,5 +1,5 @@
 <h1 align="center">Hi, My name is Shifana Lutfi Fuad, And you can call me Lutfi</h1>
-<h3 align="center">I'm a Game Developer and Designer and learning to be Web and App Developer</h3>
+<h3 align="center">I'm a Game Developer and Designer, learning to be Web and App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfnich&label=Profile%20views&color=0e75b6&style=flat" alt="alfnich" /> </p>
 
